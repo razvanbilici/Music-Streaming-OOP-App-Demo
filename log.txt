@@ -1,0 +1,2865 @@
+User: Razvan - 2022/04/30 06:09:41 - Main Run
+User: Razvan - 2022/04/30 06:09:41 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 06:09:41 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 06:09:41 - "Sony" Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Jive" Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Blackened" Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Bosquito" Band Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Maroon5" Band Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Band Object Created
+User: Razvan - 2022/04/30 06:09:41 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Band Object Created
+User: Razvan - 2022/04/30 06:09:41 - Band Object "Metallica" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Band Object Created
+User: Razvan - 2022/04/30 06:09:41 - Band Object "Beatles" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 06:09:41 - Couldn't Create Band Object trupa j0hn D03 - 
+Band name not found in specified CSV file - Default Band Object Created Instead
+
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Band Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Benone Sinulescu" Solo Artist Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Eminem" Solo Artist Object Created
+User: Razvan - 2022/04/30 06:09:41 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Roata Vietii" Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - "The Eminem Show" Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Label Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - Default Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - "Without Me" Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - "The Frayed Ends Of Sanity" Song Object Created
+User: Razvan - 2022/04/30 06:09:41 - "...And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 06:09:45 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/04/30 06:09:46 - razvanBlc01 Successfully Followed Benone Sinulescu
+User: Razvan - 2022/04/30 06:09:47 - razvanBlc01 Successfully Unfollowed Benone Sinulescu
+User: Razvan - 2022/04/30 06:09:49 - razvanBlc01 Follow Request Declined:  Eminem
+User: Razvan - 2022/04/30 06:09:51 - razvanBlc01 Follow Request Declined:  Eminem
+User: Razvan - 2022/04/30 06:09:51 - razvanBlc01 user showFollowing Method Called
+User: Razvan - 2022/04/30 06:09:51 - "Diverse" Playlist Object Created
+User: Razvan - 2022/04/30 06:09:51 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 06:09:51 - Song "The Frayed Ends Of Sanity Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 06:09:51 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 06:09:51 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 06:09:51 - Song Removal Error: Without Me Not In Diverse
+User: Razvan - 2022/04/30 06:09:51 - Song "Without Me Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 06:09:51 - Song "...And Justice For All Successfully Removed From Playlist: Diverse
+User: Razvan - 2022/04/30 06:09:51 - CRonaldo7 user showFollowing Method Called
+User: Razvan - 2022/04/30 06:09:51 - Playlist "Diverse" Sorted by: Length Ascending
+User: Razvan - 2022/04/30 06:09:51 - Playlist "Diverse" Sorted by: Length Descending
+User: Razvan - 2022/04/30 06:09:51 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/04/30 07:04:48 - Main Run
+User: Razvan - 2022/04/30 07:04:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 07:04:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 07:04:48 - "Sony" Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Jive" Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Blackened" Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Bosquito" Band Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Maroon5" Band Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Band Object Created
+User: Razvan - 2022/04/30 07:04:48 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Band Object Created
+User: Razvan - 2022/04/30 07:04:48 - Band Object "Metallica" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Band Object Created
+User: Razvan - 2022/04/30 07:04:48 - Band Object "Beatles" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 07:04:48 - Couldn't Create Band Object trupa j0hn D03 - 
+Band name not found in specified CSV file - Default Band Object Created Instead
+
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Band Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Benone Sinulescu" Solo Artist Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Eminem" Solo Artist Object Created
+User: Razvan - 2022/04/30 07:04:48 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Roata Vietii" Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - "The Eminem Show" Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Label Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - Default Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - "Without Me" Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - "The Frayed Ends Of Sanity" Song Object Created
+User: Razvan - 2022/04/30 07:04:48 - "...And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 07:04:55 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/04/30 07:04:56 - razvanBlc01 Successfully Followed Benone Sinulescu
+User: Razvan - 2022/04/30 07:04:57 - razvanBlc01 Successfully Unfollowed Benone Sinulescu
+User: Razvan - 2022/04/30 07:04:58 - razvanBlc01 Successfully Followed Eminem
+User: Razvan - 2022/04/30 07:04:58 - razvanBlc01 Double Follow Attempt Encountered
+User: Razvan - 2022/04/30 07:04:58 - razvanBlc01 user showFollowing Method Called
+User: Razvan - 2022/04/30 07:04:58 - "Diverse" Playlist Object Created
+User: Razvan - 2022/04/30 07:04:58 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:04:58 - Song "The Frayed Ends Of Sanity Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:04:58 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:04:58 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:04:58 - Song Removal Error: Without Me Not In Diverse
+User: Razvan - 2022/04/30 07:04:58 - Song "Without Me Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:04:58 - Song "...And Justice For All Successfully Removed From Playlist: Diverse
+User: Razvan - 2022/04/30 07:04:58 - CRonaldo7 user showFollowing Method Called
+User: Razvan - 2022/04/30 07:04:58 - Playlist "Diverse" Sorted by: Length Ascending
+User: Razvan - 2022/04/30 07:04:58 - Playlist "Diverse" Sorted by: Length Descending
+User: Razvan - 2022/04/30 07:04:58 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/04/30 07:05:10 - Main Run
+User: Razvan - 2022/04/30 07:05:10 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 07:05:10 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 07:05:10 - "Sony" Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Jive" Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Blackened" Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Bosquito" Band Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Maroon5" Band Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Band Object Created
+User: Razvan - 2022/04/30 07:05:10 - Band Maroon5 not added - already in CSV file
+User: Razvan - 2022/04/30 07:05:10 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/04/30 07:05:10 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Band Object Created
+User: Razvan - 2022/04/30 07:05:10 - Band Object "Metallica" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Band Object Created
+User: Razvan - 2022/04/30 07:05:10 - Band Object "Beatles" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 07:05:10 - Couldn't Create Band Object trupa j0hn D03 - 
+Band name not found in specified CSV file - Default Band Object Created Instead
+
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Band Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Benone Sinulescu" Solo Artist Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Eminem" Solo Artist Object Created
+User: Razvan - 2022/04/30 07:05:10 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Roata Vietii" Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - "The Eminem Show" Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Label Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - Default Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - "Without Me" Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - "The Frayed Ends Of Sanity" Song Object Created
+User: Razvan - 2022/04/30 07:05:10 - "...And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 07:05:19 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/04/30 07:05:20 - razvanBlc01 Successfully Followed Benone Sinulescu
+User: Razvan - 2022/04/30 07:05:20 - razvanBlc01 Successfully Unfollowed Benone Sinulescu
+User: Razvan - 2022/04/30 07:05:21 - razvanBlc01 Successfully Followed Eminem
+User: Razvan - 2022/04/30 07:05:21 - razvanBlc01 Double Follow Attempt Encountered
+User: Razvan - 2022/04/30 07:05:21 - razvanBlc01 user showFollowing Method Called
+User: Razvan - 2022/04/30 07:05:21 - "Diverse" Playlist Object Created
+User: Razvan - 2022/04/30 07:05:21 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:05:21 - Song "The Frayed Ends Of Sanity Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:05:21 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:05:21 - Song "...And Justice For All Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:05:21 - Song Removal Error: Without Me Not In Diverse
+User: Razvan - 2022/04/30 07:05:21 - Song "Without Me Successfully Added to Playlist: Diverse
+User: Razvan - 2022/04/30 07:05:21 - Song "...And Justice For All Successfully Removed From Playlist: Diverse
+User: Razvan - 2022/04/30 07:05:21 - CRonaldo7 user showFollowing Method Called
+User: Razvan - 2022/04/30 07:05:21 - Playlist "Diverse" Sorted by: Length Ascending
+User: Razvan - 2022/04/30 07:05:21 - Playlist "Diverse" Sorted by: Length Descending
+User: Razvan - 2022/04/30 07:05:21 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/04/30 07:45:19 - Main Run
+User: Razvan - 2022/04/30 07:45:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 07:45:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/04/30 07:45:19 - "Sony" Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Jive" Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Blackened" Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Bosquito" Band Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Maroon5" Band Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Band Object Created
+User: Razvan - 2022/04/30 07:45:19 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Band Object Created
+User: Razvan - 2022/04/30 07:45:19 - Band Object "Metallica" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Band Object Created
+User: Razvan - 2022/04/30 07:45:19 - Band Object "Beatles" Created Successfully From Specified CSV File
+User: Razvan - 2022/04/30 07:45:19 - Couldn't Create Band Object trupa j0hn D03 - 
+Band name not found in specified CSV file - Default Band Object Created Instead
+
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Band Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Benone Sinulescu" Solo Artist Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Eminem" Solo Artist Object Created
+User: Razvan - 2022/04/30 07:45:19 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Roata Vietii" Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - "The Eminem Show" Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Label Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - Default Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - "Without Me" Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - "The Frayed Ends Of Sanity" Song Object Created
+User: Razvan - 2022/04/30 07:45:19 - "...And Justice For All" Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - Main Run
+User: Razvan - 2022/05/24 18:50:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 18:50:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 18:50:50 - "Sony" Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Maroon5" Band Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Band Object Created
+User: Razvan - 2022/05/24 18:50:50 - Band Maroon5 not added - already in CSV file
+User: Razvan - 2022/05/24 18:50:50 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/05/24 18:50:50 - Band Bosquito not added - already in CSV file
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Band Object Created
+User: Razvan - 2022/05/24 18:50:50 - Band Object "Metallica" Created Successfully From Specified CSV File
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Band Object Created
+User: Razvan - 2022/05/24 18:50:50 - Band Object "Beatles" Created Successfully From Specified CSV File
+User: Razvan - 2022/05/24 18:50:50 - Couldn't Create Band Object trupa j0hn D03 - 
+Band name not found in specified CSV file - Default Band Object Created Instead
+
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Band Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Benone Sinulescu" Solo Artist Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Eminem" Solo Artist Object Created
+User: Razvan - 2022/05/24 18:50:50 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Roata Vietii" Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - "The Eminem Show" Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Label Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - Default Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - "Without Me" Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - "The Frayed Ends Of Sanity" Song Object Created
+User: Razvan - 2022/05/24 18:50:50 - "...And Justice For All" Song Object Created
+User: Razvan - 2022/05/24 21:16:22 - Main Run
+User: Razvan - 2022/05/24 21:16:51 - Main Run
+User: Razvan - 2022/05/24 21:16:52 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:21:05 - Main Run
+User: Razvan - 2022/05/24 21:21:48 - Main Run
+User: Razvan - 2022/05/24 21:21:48 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:26:39 - Main Run
+User: Razvan - 2022/05/24 21:26:39 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:40:46 - Main Run
+User: Razvan - 2022/05/24 21:40:47 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:49:26 - Main Run
+User: Razvan - 2022/05/24 21:49:26 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:52:17 - Main Run
+User: Razvan - 2022/05/24 21:52:18 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:55:19 - Main Run
+User: Razvan - 2022/05/24 21:55:20 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:56:16 - Main Run
+User: Razvan - 2022/05/24 21:56:16 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 21:57:55 - Main Run
+User: Razvan - 2022/05/24 21:57:56 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:19:02 - Main Run
+User: Razvan - 2022/05/24 22:19:02 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:19:02 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:19:02 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:19:02 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:19:02 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:19:03 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:25:47 - Main Run
+User: Razvan - 2022/05/24 22:25:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:25:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:25:47 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:25:47 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:25:47 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:25:47 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:27:13 - Main Run
+User: Razvan - 2022/05/24 22:27:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:27:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:27:13 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:27:13 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:27:13 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:27:13 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:27:34 - Main Run
+User: Razvan - 2022/05/24 22:27:34 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:27:34 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:27:34 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:27:34 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:27:34 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:27:34 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:28:08 - Main Run
+User: Razvan - 2022/05/24 22:28:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:28:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:28:08 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:28:08 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:28:08 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:28:08 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:29:16 - Main Run
+User: Razvan - 2022/05/24 22:29:16 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:29:16 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:29:16 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:29:16 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:29:16 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:29:16 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:29:38 - Main Run
+User: Razvan - 2022/05/24 22:29:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:29:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:29:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:29:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:29:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:29:39 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:29:50 - Main Run
+User: Razvan - 2022/05/24 22:29:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:29:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:29:50 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:29:50 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:29:50 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:29:51 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:30:15 - Main Run
+User: Razvan - 2022/05/24 22:30:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:30:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:30:15 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:30:15 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:30:15 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:30:15 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:30:39 - Main Run
+User: Razvan - 2022/05/24 22:30:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:30:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:30:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:30:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:30:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:30:39 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:31:01 - Main Run
+User: Razvan - 2022/05/24 22:31:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:31:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:31:01 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:31:01 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:31:01 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:31:02 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:32:51 - Main Run
+User: Razvan - 2022/05/24 22:32:51 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:32:51 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:32:51 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:32:51 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:32:51 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:32:51 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:34:39 - Main Run
+User: Razvan - 2022/05/24 22:34:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:34:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:34:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:34:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:34:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:34:39 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:35:20 - Main Run
+User: Razvan - 2022/05/24 22:35:20 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:35:20 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:35:20 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:35:20 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:35:20 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:35:21 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:36:39 - Main Run
+User: Razvan - 2022/05/24 22:36:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:36:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:36:40 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:36:40 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:36:40 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:36:40 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:36:50 - Main Run
+User: Razvan - 2022/05/24 22:36:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:36:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:36:50 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:36:50 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:36:50 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:36:50 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:37:47 - Main Run
+User: Razvan - 2022/05/24 22:37:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:37:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:37:47 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:37:47 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:37:47 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:37:48 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:38:01 - Main Run
+User: Razvan - 2022/05/24 22:38:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:38:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:38:01 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:38:01 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:38:01 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:38:01 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:44:45 - Main Run
+User: Razvan - 2022/05/24 22:44:45 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:44:45 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:44:45 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:44:45 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:44:45 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:44:45 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:45:35 - Main Run
+User: Razvan - 2022/05/24 22:45:35 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:45:35 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:45:35 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:45:35 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:45:35 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:45:35 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:47:13 - Main Run
+User: Razvan - 2022/05/24 22:47:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:47:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:47:13 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:47:13 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:47:13 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:47:13 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:54:15 - Main Run
+User: Razvan - 2022/05/24 22:54:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:15 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:54:15 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:54:15 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:54:15 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:54:20 - Main Run
+User: Razvan - 2022/05/24 22:54:20 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:20 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:20 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:54:20 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:54:20 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:54:21 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:54:30 - Main Run
+User: Razvan - 2022/05/24 22:54:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:30 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:54:30 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:54:30 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:54:31 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:54:39 - Main Run
+User: Razvan - 2022/05/24 22:54:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:54:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:54:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:54:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:54:40 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:55:24 - Main Run
+User: Razvan - 2022/05/24 22:55:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:55:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:55:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:55:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:55:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:55:25 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:57:01 - Main Run
+User: Razvan - 2022/05/24 22:57:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:57:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:57:01 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:57:01 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:57:01 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:57:01 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:57:22 - Main Run
+User: Razvan - 2022/05/24 22:57:22 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:57:22 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:57:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:57:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:57:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:57:23 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:57:36 - Main Run
+User: Razvan - 2022/05/24 22:57:36 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:57:36 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:57:36 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:57:36 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:57:36 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:57:37 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 22:58:13 - Main Run
+User: Razvan - 2022/05/24 22:58:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:58:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 22:58:13 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 22:58:13 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 22:58:13 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 22:58:14 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:00:11 - Main Run
+User: Razvan - 2022/05/24 23:00:11 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:00:11 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:00:11 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:00:11 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:00:11 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:00:11 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:00:25 - Main Run
+User: Razvan - 2022/05/24 23:00:25 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:00:25 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:00:25 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:00:25 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:00:25 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:00:25 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:00:56 - Main Run
+User: Razvan - 2022/05/24 23:00:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:00:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:00:56 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:00:56 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:00:56 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:00:56 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:03:23 - Main Run
+User: Razvan - 2022/05/24 23:03:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:03:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:03:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:03:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:03:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:03:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:07:19 - Main Run
+User: Razvan - 2022/05/24 23:07:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:07:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:07:19 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:07:19 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:07:19 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:07:19 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:08:54 - Main Run
+User: Razvan - 2022/05/24 23:08:54 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:08:54 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:08:54 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:08:54 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:08:54 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:08:55 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:10:24 - Main Run
+User: Razvan - 2022/05/24 23:10:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:10:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:10:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:10:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:10:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:10:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:12:17 - Main Run
+User: Razvan - 2022/05/24 23:12:17 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:12:17 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:12:17 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:12:17 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:12:17 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:12:18 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:15:57 - Main Run
+User: Razvan - 2022/05/24 23:15:57 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:15:57 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:15:57 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:15:57 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:15:57 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:15:58 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:18:31 - Main Run
+User: Razvan - 2022/05/24 23:18:31 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:18:31 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:18:31 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:18:31 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:18:31 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:18:32 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:20:44 - Main Run
+User: Razvan - 2022/05/24 23:20:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:20:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:20:44 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:20:44 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:20:44 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:20:45 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:22:14 - Main Run
+User: Razvan - 2022/05/24 23:22:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:22:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:22:14 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:22:14 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:22:14 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:22:14 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:22:30 - Main Run
+User: Razvan - 2022/05/24 23:22:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:22:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:22:30 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:22:30 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:22:30 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:22:30 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:23:08 - Main Run
+User: Razvan - 2022/05/24 23:23:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:23:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:23:08 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:23:08 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:23:08 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:23:08 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:23:26 - Main Run
+User: Razvan - 2022/05/24 23:23:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:23:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:23:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:23:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:23:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:23:26 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:26:23 - Main Run
+User: Razvan - 2022/05/24 23:26:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:26:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:26:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:26:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:26:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:26:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:32:49 - Main Run
+User: Razvan - 2022/05/24 23:32:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:32:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:32:49 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:32:49 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:32:49 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:32:50 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:32:57 - Main Run
+User: Razvan - 2022/05/24 23:32:57 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:32:57 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:32:57 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:32:57 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:32:57 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:32:58 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:36:37 - Main Run
+User: Razvan - 2022/05/24 23:36:37 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:36:37 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:36:37 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:36:37 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:36:37 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:36:37 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:36:49 - Main Run
+User: Razvan - 2022/05/24 23:36:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:36:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:36:49 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:36:49 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:36:49 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:36:49 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:38:23 - Main Run
+User: Razvan - 2022/05/24 23:38:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:38:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:38:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:38:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:38:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:38:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:39:21 - Main Run
+User: Razvan - 2022/05/24 23:39:21 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:39:21 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:39:21 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:39:21 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:39:21 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:39:21 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:40:26 - Main Run
+User: Razvan - 2022/05/24 23:40:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:40:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:40:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:40:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:40:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:40:27 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:40:37 - Main Run
+User: Razvan - 2022/05/24 23:40:37 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:40:37 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:40:37 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:40:37 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:40:37 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:40:38 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:40:40 - Main Run
+User: Razvan - 2022/05/24 23:40:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:40:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:40:40 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:40:40 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:40:40 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:40:40 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:41:52 - Main Run
+User: Razvan - 2022/05/24 23:41:52 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:41:52 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:41:52 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:41:52 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:41:52 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:41:53 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:42:24 - Main Run
+User: Razvan - 2022/05/24 23:42:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:42:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:42:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:42:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:42:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:42:25 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:43:48 - Main Run
+User: Razvan - 2022/05/24 23:43:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:43:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:43:48 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:43:48 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:43:48 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:43:49 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:44:37 - Main Run
+User: Razvan - 2022/05/24 23:44:37 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:44:37 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:44:37 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:44:37 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:44:37 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:44:38 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:45:23 - Main Run
+User: Razvan - 2022/05/24 23:45:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:45:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:45:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:45:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:45:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:45:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:46:12 - Main Run
+User: Razvan - 2022/05/24 23:46:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:46:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:46:12 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:46:12 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:46:12 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:46:12 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:47:09 - Main Run
+User: Razvan - 2022/05/24 23:47:09 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:47:09 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:47:09 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:47:09 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:47:09 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:47:09 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:49:49 - Main Run
+User: Razvan - 2022/05/24 23:49:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:49:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:49:49 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:49:49 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:49:49 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:49:49 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:50:06 - Main Run
+User: Razvan - 2022/05/24 23:50:06 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:50:06 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:50:06 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:50:06 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:50:06 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:50:06 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:50:16 - Main Run
+User: Razvan - 2022/05/24 23:50:16 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:50:16 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:50:16 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:50:16 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:50:16 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:50:16 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:50:53 - Main Run
+User: Razvan - 2022/05/24 23:50:53 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:50:53 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:50:53 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:50:53 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:50:53 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:50:54 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:51:22 - Main Run
+User: Razvan - 2022/05/24 23:51:22 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:51:22 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:51:22 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:51:22 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:51:22 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:51:22 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:52:49 - Main Run
+User: Razvan - 2022/05/24 23:52:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:52:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:52:49 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:52:49 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:52:49 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:52:49 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:55:03 - Main Run
+User: Razvan - 2022/05/24 23:55:03 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:55:03 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:55:03 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:55:03 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:55:03 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:55:03 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:55:19 - Main Run
+User: Razvan - 2022/05/24 23:55:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:55:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:55:19 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:55:19 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:55:19 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:55:20 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:56:05 - Main Run
+User: Razvan - 2022/05/24 23:56:05 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:56:05 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:56:05 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:56:05 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:56:05 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:56:06 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:57:13 - Main Run
+User: Razvan - 2022/05/24 23:57:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:57:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:57:13 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:57:13 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:57:13 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:57:14 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:57:35 - Main Run
+User: Razvan - 2022/05/24 23:57:35 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:57:35 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:57:35 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:57:35 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:57:35 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:57:36 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:57:56 - Main Run
+User: Razvan - 2022/05/24 23:57:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:57:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:57:56 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:57:56 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:57:56 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:57:57 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/24 23:59:57 - Main Run
+User: Razvan - 2022/05/24 23:59:57 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:59:57 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/24 23:59:57 - "Jive" Label Object Created
+User: Razvan - 2022/05/24 23:59:57 - "Blackened" Label Object Created
+User: Razvan - 2022/05/24 23:59:57 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/24 23:59:58 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:01:29 - Main Run
+User: Razvan - 2022/05/25 00:01:29 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:01:29 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:01:29 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:01:29 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:01:29 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:01:29 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:02:26 - Main Run
+User: Razvan - 2022/05/25 00:02:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:02:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:02:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:02:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:02:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:02:27 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:02:48 - Main Run
+User: Razvan - 2022/05/25 00:02:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:02:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:02:48 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:02:48 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:02:48 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:02:49 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:03:29 - Main Run
+User: Razvan - 2022/05/25 00:03:29 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:03:29 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:03:29 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:03:29 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:03:29 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:03:29 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:03:46 - Main Run
+User: Razvan - 2022/05/25 00:03:46 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:03:46 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:03:46 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:03:46 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:03:46 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:03:47 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:04:59 - Main Run
+User: Razvan - 2022/05/25 00:04:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:04:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:04:59 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:04:59 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:04:59 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:04:59 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:05:12 - Main Run
+User: Razvan - 2022/05/25 00:05:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:05:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:05:12 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:05:12 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:05:12 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:05:12 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:07:12 - Main Run
+User: Razvan - 2022/05/25 00:07:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:07:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:07:12 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:07:12 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:07:12 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:07:13 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:08:21 - Main Run
+User: Razvan - 2022/05/25 00:08:21 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:08:21 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:08:21 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:08:21 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:08:21 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:08:21 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:08:59 - Main Run
+User: Razvan - 2022/05/25 00:08:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:08:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:08:59 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:08:59 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:08:59 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:08:59 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:09:10 - Main Run
+User: Razvan - 2022/05/25 00:09:10 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:09:10 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:09:10 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:09:10 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:09:10 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:09:11 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:09:50 - Main Run
+User: Razvan - 2022/05/25 00:09:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:09:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:09:50 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:09:50 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:09:50 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:09:51 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:10:33 - Main Run
+User: Razvan - 2022/05/25 00:10:33 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:10:33 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:10:33 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:10:33 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:10:33 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:10:33 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:10:56 - Main Run
+User: Razvan - 2022/05/25 00:10:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:10:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:10:56 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:10:56 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:10:56 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:10:56 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:11:28 - Main Run
+User: Razvan - 2022/05/25 00:11:28 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:11:28 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:11:28 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:11:28 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:11:28 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:11:29 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:12:32 - Main Run
+User: Razvan - 2022/05/25 00:12:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:12:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:12:32 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:12:32 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:12:32 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:12:32 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:13:43 - Main Run
+User: Razvan - 2022/05/25 00:13:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:13:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:13:43 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:13:43 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:13:43 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:13:44 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:14:18 - Main Run
+User: Razvan - 2022/05/25 00:14:18 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:14:18 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:14:18 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:14:18 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:14:18 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:14:18 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:15:14 - Main Run
+User: Razvan - 2022/05/25 00:15:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:15:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:15:14 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:15:14 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:15:14 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:15:15 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:16:08 - Main Run
+User: Razvan - 2022/05/25 00:16:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:16:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:16:08 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:16:08 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:16:08 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:16:09 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:16:18 - Main Run
+User: Razvan - 2022/05/25 00:16:18 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:16:18 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:16:18 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:16:18 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:16:18 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:16:19 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:16:32 - Main Run
+User: Razvan - 2022/05/25 00:16:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:16:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:16:32 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:16:32 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:16:32 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:16:33 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:21:43 - Main Run
+User: Razvan - 2022/05/25 00:21:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:21:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:21:43 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:21:43 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:21:43 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:21:43 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:22:48 - Main Run
+User: Razvan - 2022/05/25 00:22:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:22:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:22:48 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:22:48 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:22:48 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:22:48 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:23:23 - Main Run
+User: Razvan - 2022/05/25 00:23:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:23:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:23:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:23:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:23:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:23:23 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:27:24 - Main Run
+User: Razvan - 2022/05/25 00:27:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:27:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:27:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:27:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:27:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:27:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:27:54 - Main Run
+User: Razvan - 2022/05/25 00:27:54 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:27:54 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:27:54 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:27:54 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:27:54 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:27:54 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:29:14 - Main Run
+User: Razvan - 2022/05/25 00:29:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:29:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:29:14 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:29:14 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:29:14 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:29:14 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:29:21 - Main Run
+User: Razvan - 2022/05/25 00:29:21 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:29:21 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:29:21 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:29:21 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:29:21 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:29:22 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:29:56 - Main Run
+User: Razvan - 2022/05/25 00:29:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:29:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:29:56 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:29:56 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:29:56 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:29:57 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:30:09 - Main Run
+User: Razvan - 2022/05/25 00:30:09 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:30:09 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:30:09 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:30:09 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:30:09 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:30:10 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:30:22 - Main Run
+User: Razvan - 2022/05/25 00:30:22 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:30:22 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:30:22 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:30:22 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:30:22 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:30:22 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:32:40 - Main Run
+User: Razvan - 2022/05/25 00:32:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:32:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:32:40 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:32:40 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:32:40 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:32:40 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:33:12 - Main Run
+User: Razvan - 2022/05/25 00:33:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:33:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:33:12 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:33:12 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:33:12 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:33:13 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:35:31 - Main Run
+User: Razvan - 2022/05/25 00:35:31 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:35:31 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:35:31 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:35:31 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:35:31 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:35:31 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:35:54 - Main Run
+User: Razvan - 2022/05/25 00:35:54 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:35:54 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:35:54 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:35:54 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:35:54 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:35:55 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:36:26 - Main Run
+User: Razvan - 2022/05/25 00:36:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:36:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:36:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:36:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:36:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:36:27 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:37:56 - Main Run
+User: Razvan - 2022/05/25 00:37:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:37:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:37:56 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:37:56 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:37:56 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:37:57 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:39:02 - Main Run
+User: Razvan - 2022/05/25 00:39:02 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:39:02 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:39:02 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:39:02 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:39:02 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:39:02 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:40:44 - Main Run
+User: Razvan - 2022/05/25 00:40:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:40:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:40:44 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:40:44 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:40:44 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:40:45 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:42:13 - Main Run
+User: Razvan - 2022/05/25 00:42:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:42:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:42:13 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:42:13 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:42:13 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:42:13 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:46:15 - Main Run
+User: Razvan - 2022/05/25 00:46:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:46:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:46:15 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:46:15 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:46:15 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:46:16 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:46:26 - Main Run
+User: Razvan - 2022/05/25 00:46:27 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:46:27 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:46:27 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:46:27 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:46:27 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:46:27 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:47:24 - Main Run
+User: Razvan - 2022/05/25 00:47:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:47:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:47:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:47:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:47:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:47:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:48:30 - Main Run
+User: Razvan - 2022/05/25 00:48:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:48:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:48:30 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:48:30 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:48:30 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:48:31 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 00:48:44 - Main Run
+User: Razvan - 2022/05/25 00:48:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:48:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 00:48:44 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 00:48:44 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 00:48:44 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 00:48:44 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:06:23 - Main Run
+User: Razvan - 2022/05/25 01:06:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:06:23 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:06:23 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:06:23 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:06:23 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:06:23 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:06:23 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:06:24 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:07:44 - Main Run
+User: Razvan - 2022/05/25 01:07:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:07:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:07:45 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:07:45 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:07:45 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:07:45 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:07:45 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:07:45 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:08:53 - Main Run
+User: Razvan - 2022/05/25 01:08:53 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:08:53 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:08:53 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:08:53 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:08:53 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:08:53 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:08:53 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:08:54 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:09:32 - Main Run
+User: Razvan - 2022/05/25 01:09:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:09:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:09:32 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:09:32 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:09:32 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:09:32 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:09:32 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:09:32 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:15:38 - Main Run
+User: Razvan - 2022/05/25 01:15:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:15:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:15:38 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:15:38 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:15:38 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:15:38 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:15:38 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:15:39 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:16:16 - Main Run
+User: Razvan - 2022/05/25 01:16:16 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:16:16 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:16:16 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:16:16 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:16:16 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:16:16 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:16:16 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:16:17 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:16:36 - Main Run
+User: Razvan - 2022/05/25 01:16:36 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:16:36 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:16:36 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:16:36 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:16:36 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:16:36 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:16:36 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:18:42 - Main Run
+User: Razvan - 2022/05/25 01:18:42 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:18:42 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:18:42 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:18:42 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:18:42 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:18:42 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:18:42 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:18:42 - Tabel bands creat
+User: Razvan - 2022/05/25 01:18:42 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 01:19:00 - Main Run
+User: Razvan - 2022/05/25 01:19:00 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:19:00 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 01:19:00 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 01:19:00 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 01:19:01 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 01:19:01 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 01:19:01 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 01:19:01 - Tabel bands creat
+User: Razvan - 2022/05/25 01:19:01 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 02:40:07 - Main Run
+User: Razvan - 2022/05/25 02:40:07 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:07 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:07 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:40:07 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:40:07 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:40:07 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:40:07 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:40:07 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:40:07 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:40:07 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:40:08 - labels TABLE created
+User: Razvan - 2022/05/25 02:40:08 - Data added into labels
+User: Razvan - 2022/05/25 02:40:08 - Data added into labels
+User: Razvan - 2022/05/25 02:40:31 - Main Run
+User: Razvan - 2022/05/25 02:40:31 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:31 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:31 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:40:31 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:40:31 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:40:31 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:40:31 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:40:31 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:40:31 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:40:31 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:40:31 - bands TABLE created
+User: Razvan - 2022/05/25 02:40:45 - Main Run
+User: Razvan - 2022/05/25 02:40:45 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:45 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:45 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:40:45 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:40:45 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:40:45 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:40:45 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:40:45 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:40:45 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:40:45 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:40:46 - Data added into albums
+User: Razvan - 2022/05/25 02:40:46 - Data added into albums
+User: Razvan - 2022/05/25 02:40:59 - Main Run
+User: Razvan - 2022/05/25 02:40:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:40:59 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:40:59 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:40:59 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:40:59 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:40:59 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:40:59 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:40:59 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:40:59 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:41:45 - Main Run
+User: Razvan - 2022/05/25 02:41:45 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:41:45 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:41:45 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:41:45 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:41:45 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:41:45 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:41:45 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:41:45 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:41:45 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:41:45 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:41:45 - songs TABLE created
+User: Razvan - 2022/05/25 02:41:46 - Data added into songs
+User: Razvan - 2022/05/25 02:41:46 - Data added into songs
+User: Razvan - 2022/05/25 02:42:06 - Main Run
+User: Razvan - 2022/05/25 02:42:06 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:06 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:06 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:42:06 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:42:06 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:42:06 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:42:06 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:42:06 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:42:06 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:42:06 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:42:25 - Main Run
+User: Razvan - 2022/05/25 02:42:25 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:25 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:25 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:42:25 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:42:25 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:42:25 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:42:25 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:42:25 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:42:25 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:42:25 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:42:25 - users TABLE created
+User: Razvan - 2022/05/25 02:42:41 - Main Run
+User: Razvan - 2022/05/25 02:42:41 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:41 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:41 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:42:41 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:42:41 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:42:41 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:42:41 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:42:41 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:42:41 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:42:41 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:42:41 - users TABLE created
+User: Razvan - 2022/05/25 02:42:56 - Main Run
+User: Razvan - 2022/05/25 02:42:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:56 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:42:56 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:42:56 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:42:56 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:42:56 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:42:56 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:42:56 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:42:56 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:42:56 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:42:57 - users TABLE created
+User: Razvan - 2022/05/25 02:44:26 - Main Run
+User: Razvan - 2022/05/25 02:44:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:44:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:44:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:44:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:44:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:44:26 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:44:26 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:44:26 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:44:26 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:44:26 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:44:26 - users TABLE created
+User: Razvan - 2022/05/25 02:44:26 - Data added into users
+User: Razvan - 2022/05/25 02:44:49 - Main Run
+User: Razvan - 2022/05/25 02:44:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:44:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:44:49 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:44:49 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:44:49 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:44:49 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:44:49 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:44:49 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:44:49 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:44:49 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:48:20 - Main Run
+User: Razvan - 2022/05/25 02:48:20 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:48:20 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:48:20 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:48:20 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:48:20 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:48:20 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:48:20 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:48:20 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:48:20 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:48:20 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:48:21 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 02:48:52 - Main Run
+User: Razvan - 2022/05/25 02:48:52 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:48:52 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:48:52 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:48:52 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:48:52 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:48:52 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:48:52 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:48:52 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:48:52 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:48:52 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:48:56 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 02:49:34 - Main Run
+User: Razvan - 2022/05/25 02:49:34 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:49:34 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:49:34 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:49:34 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:49:34 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:49:34 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:49:34 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:49:34 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:49:34 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:49:34 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:49:39 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 02:51:18 - Main Run
+User: Razvan - 2022/05/25 02:51:18 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:51:18 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:51:18 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:51:18 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:51:18 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:51:18 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:51:18 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:51:18 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:51:18 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:51:18 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:51:22 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 02:52:47 - Main Run
+User: Razvan - 2022/05/25 02:52:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:52:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:52:47 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:52:47 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:52:47 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:52:47 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:52:47 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:52:47 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:52:47 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:52:47 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:52:50 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 02:52:50 - Data added into users
+User: Razvan - 2022/05/25 02:52:54 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 02:52:54 - Data added into users
+User: Razvan - 2022/05/25 02:52:54 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 02:53:35 - Main Run
+User: Razvan - 2022/05/25 02:53:35 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:53:35 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:53:35 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:53:35 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:53:35 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:53:35 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:53:35 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:53:35 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:53:35 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:53:35 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:53:35 - razvanBlc01 Unfollow Request Error: Bosquito
+User: Razvan - 2022/05/25 02:53:35 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 02:54:19 - Main Run
+User: Razvan - 2022/05/25 02:54:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:54:19 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:54:19 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:54:19 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:54:19 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:54:19 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:54:19 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:54:19 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:54:19 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:54:19 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:54:21 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 02:55:09 - Main Run
+User: Razvan - 2022/05/25 02:55:09 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:55:09 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:55:09 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:55:09 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:55:09 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:55:09 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:55:09 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:55:09 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:55:09 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:55:09 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:55:09 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 02:55:13 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 02:55:13 - Data added into users
+User: Razvan - 2022/05/25 02:55:14 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 02:55:14 - Data added into users
+User: Razvan - 2022/05/25 02:55:16 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 02:55:16 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 02:58:48 - Main Run
+User: Razvan - 2022/05/25 02:58:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:58:48 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:58:48 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:58:48 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:58:48 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:58:48 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:58:48 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:58:48 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:58:48 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:58:48 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:58:48 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 02:58:48 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 02:59:46 - Main Run
+User: Razvan - 2022/05/25 02:59:46 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:59:46 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 02:59:46 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 02:59:46 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 02:59:46 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 02:59:46 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 02:59:46 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 02:59:46 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 02:59:46 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 02:59:46 - "One" Song Object Created
+User: Razvan - 2022/05/25 02:59:47 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 02:59:47 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 02:59:47 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:01:04 - Main Run
+User: Razvan - 2022/05/25 03:01:04 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:01:04 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:01:04 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:01:04 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:01:04 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:01:04 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:01:04 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:01:04 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:01:04 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:01:04 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:01:05 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:01:05 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:01:36 - Main Run
+User: Razvan - 2022/05/25 03:01:36 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:01:36 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:01:36 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:01:36 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:01:36 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:01:36 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:01:36 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:01:36 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:01:36 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:01:36 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:01:36 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:01:36 - Data added into users
+User: Razvan - 2022/05/25 03:01:36 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:02:02 - Main Run
+User: Razvan - 2022/05/25 03:02:02 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:02:02 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:02:03 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:02:03 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:02:03 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:02:03 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:02:03 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:02:03 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:02:03 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:02:03 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:02:03 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:02:03 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:02:25 - Main Run
+User: Razvan - 2022/05/25 03:02:25 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:02:25 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:02:25 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:02:25 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:02:25 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:02:25 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:02:25 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:02:25 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:02:25 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:02:25 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:02:26 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:02:26 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:02:26 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:04:38 - Main Run
+User: Razvan - 2022/05/25 03:04:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:04:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:04:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:04:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:04:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:04:39 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:04:39 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:04:39 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:04:39 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:04:39 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:04:39 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:04:39 - users TABLE dropped
+User: Razvan - 2022/05/25 03:04:39 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:04:39 - labels TABLE created
+User: Razvan - 2022/05/25 03:04:39 - bands TABLE created
+User: Razvan - 2022/05/25 03:04:39 - songs TABLE created
+User: Razvan - 2022/05/25 03:04:39 - Data added into songs
+User: Razvan - 2022/05/25 03:04:39 - Data added into songs
+User: Razvan - 2022/05/25 03:04:39 - users TABLE created
+User: Razvan - 2022/05/25 03:04:39 - Data added into users
+User: Razvan - 2022/05/25 03:04:39 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:05:13 - Main Run
+User: Razvan - 2022/05/25 03:05:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:05:13 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:05:13 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:05:13 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:05:13 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:05:13 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:05:13 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:05:13 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:05:13 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:05:13 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:05:13 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:05:13 - users TABLE dropped
+User: Razvan - 2022/05/25 03:05:13 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:11:39 - Main Run
+User: Razvan - 2022/05/25 03:11:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:11:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:11:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:11:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:11:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:11:39 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:11:39 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:11:39 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:11:39 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:11:39 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:11:40 - labels TABLE created
+User: Razvan - 2022/05/25 03:11:40 - Data added into labels
+User: Razvan - 2022/05/25 03:11:40 - Data added into labels
+User: Razvan - 2022/05/25 03:11:40 - bands TABLE created
+User: Razvan - 2022/05/25 03:11:40 - Data added into albums
+User: Razvan - 2022/05/25 03:11:40 - Data added into albums
+User: Razvan - 2022/05/25 03:11:40 - songs TABLE created
+User: Razvan - 2022/05/25 03:11:40 - Data added into songs
+User: Razvan - 2022/05/25 03:11:40 - Data added into songs
+User: Razvan - 2022/05/25 03:11:40 - users TABLE created
+User: Razvan - 2022/05/25 03:11:40 - Data added into users
+User: Razvan - 2022/05/25 03:14:14 - Main Run
+User: Razvan - 2022/05/25 03:14:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:14:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:14:14 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:14:14 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:14:14 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:14:14 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:14:14 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:14:14 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:14:14 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:14:14 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:14:15 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:14:15 - users TABLE dropped
+User: Razvan - 2022/05/25 03:14:15 - labels TABLE created
+User: Razvan - 2022/05/25 03:14:15 - bands TABLE created
+User: Razvan - 2022/05/25 03:14:15 - songs TABLE created
+User: Razvan - 2022/05/25 03:14:15 - Data added into songs
+User: Razvan - 2022/05/25 03:14:15 - Data added into songs
+User: Razvan - 2022/05/25 03:14:15 - users TABLE created
+User: Razvan - 2022/05/25 03:14:15 - Data added into users
+User: Razvan - 2022/05/25 03:18:10 - Main Run
+User: Razvan - 2022/05/25 03:18:10 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:18:10 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:18:10 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:18:10 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:18:10 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:18:10 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:18:10 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:18:10 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:18:10 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:18:10 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:18:10 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:18:10 - users TABLE dropped
+User: Razvan - 2022/05/25 03:18:10 - labels TABLE created
+User: Razvan - 2022/05/25 03:18:10 - bands TABLE created
+User: Razvan - 2022/05/25 03:18:10 - songs TABLE created
+User: Razvan - 2022/05/25 03:18:10 - Data added into songs
+User: Razvan - 2022/05/25 03:18:10 - Data added into songs
+User: Razvan - 2022/05/25 03:18:10 - users TABLE created
+User: Razvan - 2022/05/25 03:18:10 - Data added into users
+User: Razvan - 2022/05/25 03:20:24 - Main Run
+User: Razvan - 2022/05/25 03:20:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:20:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:20:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:20:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:20:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:20:24 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:20:24 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:20:24 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:20:24 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:20:24 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:20:25 - labels TABLE created
+User: Razvan - 2022/05/25 03:20:25 - Data added into labels
+User: Razvan - 2022/05/25 03:20:25 - Data added into labels
+User: Razvan - 2022/05/25 03:20:25 - users TABLE created
+User: Razvan - 2022/05/25 03:20:25 - Data added into users
+User: Razvan - 2022/05/25 03:22:28 - Main Run
+User: Razvan - 2022/05/25 03:22:28 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:22:28 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:22:28 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:22:28 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:22:28 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:22:28 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:22:28 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:22:28 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:22:28 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:22:28 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:22:29 - labels TABLE created
+User: Razvan - 2022/05/25 03:22:29 - Data added into labels
+User: Razvan - 2022/05/25 03:22:29 - Data added into labels
+User: Razvan - 2022/05/25 03:22:29 - bands TABLE created
+User: Razvan - 2022/05/25 03:22:29 - Data added into albums
+User: Razvan - 2022/05/25 03:22:29 - Data added into albums
+User: Razvan - 2022/05/25 03:22:29 - songs TABLE created
+User: Razvan - 2022/05/25 03:22:29 - Data added into songs
+User: Razvan - 2022/05/25 03:22:29 - Data added into songs
+User: Razvan - 2022/05/25 03:22:29 - users TABLE created
+User: Razvan - 2022/05/25 03:22:29 - Data added into users
+User: Razvan - 2022/05/25 03:25:11 - Main Run
+User: Razvan - 2022/05/25 03:25:11 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:25:11 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:25:11 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:25:11 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:25:11 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:25:11 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:25:11 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:25:11 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:25:11 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:25:11 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:25:11 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:25:11 - users TABLE dropped
+User: Razvan - 2022/05/25 03:25:11 - labels TABLE created
+User: Razvan - 2022/05/25 03:25:12 - bands TABLE created
+User: Razvan - 2022/05/25 03:25:12 - songs TABLE created
+User: Razvan - 2022/05/25 03:25:12 - Data added into songs
+User: Razvan - 2022/05/25 03:25:12 - Data added into songs
+User: Razvan - 2022/05/25 03:25:12 - users TABLE created
+User: Razvan - 2022/05/25 03:25:12 - Data added into users
+User: Razvan - 2022/05/25 03:29:46 - Main Run
+User: Razvan - 2022/05/25 03:29:46 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:29:46 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:29:46 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:29:46 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:29:46 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:29:46 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:29:46 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:29:46 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:29:46 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:29:46 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:29:47 - labels TABLE created
+User: Razvan - 2022/05/25 03:29:47 - Data added into labels
+User: Razvan - 2022/05/25 03:29:47 - Data added into labels
+User: Razvan - 2022/05/25 03:29:47 - bands TABLE created
+User: Razvan - 2022/05/25 03:29:47 - Data added into albums
+User: Razvan - 2022/05/25 03:29:47 - Data added into albums
+User: Razvan - 2022/05/25 03:29:47 - songs TABLE created
+User: Razvan - 2022/05/25 03:29:47 - Data added into songs
+User: Razvan - 2022/05/25 03:29:47 - Data added into songs
+User: Razvan - 2022/05/25 03:29:47 - users TABLE created
+User: Razvan - 2022/05/25 03:29:47 - Data added into users
+User: Razvan - 2022/05/25 03:30:01 - Main Run
+User: Razvan - 2022/05/25 03:30:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:30:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:30:01 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:30:01 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:30:01 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:30:01 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:30:01 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:30:01 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:30:01 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:30:01 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:30:02 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:30:02 - labels TABLE created
+User: Razvan - 2022/05/25 03:30:02 - bands TABLE created
+User: Razvan - 2022/05/25 03:30:02 - songs TABLE created
+User: Razvan - 2022/05/25 03:30:02 - Data added into songs
+User: Razvan - 2022/05/25 03:30:02 - Data added into songs
+User: Razvan - 2022/05/25 03:30:02 - users TABLE created
+User: Razvan - 2022/05/25 03:30:42 - Main Run
+User: Razvan - 2022/05/25 03:30:42 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:30:42 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:30:42 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:30:42 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:30:42 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:30:42 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:30:42 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:30:42 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:30:42 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:30:42 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:30:43 - bands TABLE dropped
+User: Razvan - 2022/05/25 03:30:43 - users TABLE dropped
+User: Razvan - 2022/05/25 03:30:43 - labels TABLE created
+User: Razvan - 2022/05/25 03:30:43 - bands TABLE created
+User: Razvan - 2022/05/25 03:30:43 - songs TABLE created
+User: Razvan - 2022/05/25 03:30:43 - Data added into songs
+User: Razvan - 2022/05/25 03:30:43 - Data added into songs
+User: Razvan - 2022/05/25 03:30:43 - users TABLE created
+User: Razvan - 2022/05/25 03:30:43 - Data added into users
+User: Razvan - 2022/05/25 03:34:30 - Main Run
+User: Razvan - 2022/05/25 03:34:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:34:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:34:30 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:34:30 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:34:30 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:34:30 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:34:30 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:34:30 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:34:30 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:34:30 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:34:30 - labels TABLE created
+User: Razvan - 2022/05/25 03:34:30 - Data added into labels
+User: Razvan - 2022/05/25 03:34:30 - Data added into labels
+User: Razvan - 2022/05/25 03:34:30 - bands TABLE created
+User: Razvan - 2022/05/25 03:34:30 - Data added into albums
+User: Razvan - 2022/05/25 03:34:30 - Data added into albums
+User: Razvan - 2022/05/25 03:34:30 - songs TABLE created
+User: Razvan - 2022/05/25 03:34:30 - Data added into songs
+User: Razvan - 2022/05/25 03:34:30 - Data added into songs
+User: Razvan - 2022/05/25 03:34:30 - users TABLE created
+User: Razvan - 2022/05/25 03:34:30 - Data added into users
+User: Razvan - 2022/05/25 03:35:26 - Main Run
+User: Razvan - 2022/05/25 03:35:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:35:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:35:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:35:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:35:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:35:26 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:35:26 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:35:26 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:35:26 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:35:26 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:35:26 - labels TABLE created
+User: Razvan - 2022/05/25 03:35:27 - Data added into labels
+User: Razvan - 2022/05/25 03:35:27 - Data added into labels
+User: Razvan - 2022/05/25 03:35:27 - bands TABLE created
+User: Razvan - 2022/05/25 03:35:27 - Data added into albums
+User: Razvan - 2022/05/25 03:35:27 - Data added into albums
+User: Razvan - 2022/05/25 03:35:27 - songs TABLE created
+User: Razvan - 2022/05/25 03:35:27 - Data added into songs
+User: Razvan - 2022/05/25 03:35:27 - Data added into songs
+User: Razvan - 2022/05/25 03:35:27 - users TABLE created
+User: Razvan - 2022/05/25 03:35:27 - Data added into users
+User: Razvan - 2022/05/25 03:37:12 - Main Run
+User: Razvan - 2022/05/25 03:37:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:37:12 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:37:12 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:37:12 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:37:12 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:37:12 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:37:12 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:37:12 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:37:12 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:37:12 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:37:13 - labels TABLE created
+User: Razvan - 2022/05/25 03:37:13 - Data added into labels
+User: Razvan - 2022/05/25 03:37:13 - Data added into labels
+User: Razvan - 2022/05/25 03:37:13 - bands TABLE created
+User: Razvan - 2022/05/25 03:37:13 - Data added into albums
+User: Razvan - 2022/05/25 03:37:13 - Data added into albums
+User: Razvan - 2022/05/25 03:37:13 - songs TABLE created
+User: Razvan - 2022/05/25 03:37:13 - Data added into songs
+User: Razvan - 2022/05/25 03:37:13 - Data added into songs
+User: Razvan - 2022/05/25 03:37:13 - users TABLE created
+User: Razvan - 2022/05/25 03:37:13 - Data added into users
+User: Razvan - 2022/05/25 03:38:15 - Main Run
+User: Razvan - 2022/05/25 03:38:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:38:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:38:15 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:38:15 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:38:15 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:38:15 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:38:15 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:38:15 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:38:15 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:38:15 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:38:30 - Main Run
+User: Razvan - 2022/05/25 03:38:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:38:30 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:38:30 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:38:30 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:38:30 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:38:30 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:38:30 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:38:30 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:38:30 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:38:30 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:38:43 - Main Run
+User: Razvan - 2022/05/25 03:38:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:38:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:38:43 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:38:43 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:38:43 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:38:43 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:38:43 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:38:43 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:38:43 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:38:43 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:39:24 - Main Run
+User: Razvan - 2022/05/25 03:39:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:39:24 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:39:24 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:39:24 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:39:24 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:39:24 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:39:24 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:39:24 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:39:24 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:39:24 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:39:50 - Main Run
+User: Razvan - 2022/05/25 03:39:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:39:50 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:39:50 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:39:50 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:39:50 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:39:50 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:39:50 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:39:50 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:39:50 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:39:50 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:41:32 - Main Run
+User: Razvan - 2022/05/25 03:41:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:41:32 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:41:32 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:41:32 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:41:32 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:41:32 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:41:32 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:41:32 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:41:32 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:41:32 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:42:49 - Main Run
+User: Razvan - 2022/05/25 03:42:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:42:49 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:42:49 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:42:49 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:42:49 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:42:49 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:42:49 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:42:49 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:42:49 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:42:49 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:43:27 - Main Run
+User: Razvan - 2022/05/25 03:43:27 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:43:27 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:43:27 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:43:27 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:43:27 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:43:27 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:43:27 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:43:27 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:43:27 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:43:27 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:43:28 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:44:11 - Main Run
+User: Razvan - 2022/05/25 03:44:11 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:44:11 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:44:11 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:44:11 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:44:11 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:44:11 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:44:11 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:44:11 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:44:11 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:44:11 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:45:29 - Main Run
+User: Razvan - 2022/05/25 03:45:29 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:45:29 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:45:30 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:45:30 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:45:30 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:45:30 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:45:30 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:45:30 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:45:30 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:45:30 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:45:59 - Main Run
+User: Razvan - 2022/05/25 03:45:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:45:59 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:45:59 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:45:59 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:45:59 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:45:59 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:45:59 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:45:59 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:45:59 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:45:59 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:46:40 - Main Run
+User: Razvan - 2022/05/25 03:46:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:46:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:46:40 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:46:40 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:46:40 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:46:40 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:46:40 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:46:40 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:46:40 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:46:40 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:46:41 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:47:14 - Main Run
+User: Razvan - 2022/05/25 03:47:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:47:14 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:47:14 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:47:14 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:47:14 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:47:14 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:47:14 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:47:14 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:47:14 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:47:14 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:47:39 - Main Run
+User: Razvan - 2022/05/25 03:47:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:47:39 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:47:39 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:47:39 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:47:39 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:47:39 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:47:39 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:47:39 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:47:39 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:47:39 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:47:40 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:47:42 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 03:47:42 - Data added into users
+User: Razvan - 2022/05/25 03:47:45 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 03:47:45 - Data added into users
+User: Razvan - 2022/05/25 03:48:15 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 03:48:15 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:48:15 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:48:15 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:48:40 - Main Run
+User: Razvan - 2022/05/25 03:48:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:48:40 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:48:40 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:48:40 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:48:40 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:48:40 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:48:40 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:48:40 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:48:40 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:48:40 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:48:40 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:48:44 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 03:48:44 - Data added into users
+User: Razvan - 2022/05/25 03:48:46 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 03:48:46 - Data added into users
+User: Razvan - 2022/05/25 03:49:26 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 03:49:26 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:49:26 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:49:26 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:50:38 - Main Run
+User: Razvan - 2022/05/25 03:50:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:50:38 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:50:38 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:50:38 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:50:38 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:50:38 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:50:38 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:50:38 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:50:38 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:50:38 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:50:38 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:50:41 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 03:50:42 - Data added into users
+User: Razvan - 2022/05/25 03:50:44 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 03:50:44 - Data added into users
+User: Razvan - 2022/05/25 03:50:54 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 03:50:54 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:50:54 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:50:54 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:55:26 - Main Run
+User: Razvan - 2022/05/25 03:55:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:55:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:55:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:55:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:55:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:55:26 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:55:26 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:55:26 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:55:26 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:55:26 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:55:27 - labels TABLE created
+User: Razvan - 2022/05/25 03:55:27 - Data added into labels
+User: Razvan - 2022/05/25 03:55:27 - Data added into labels
+User: Razvan - 2022/05/25 03:55:27 - bands TABLE created
+User: Razvan - 2022/05/25 03:55:27 - Data added into albums
+User: Razvan - 2022/05/25 03:55:27 - Data added into albums
+User: Razvan - 2022/05/25 03:55:27 - songs TABLE created
+User: Razvan - 2022/05/25 03:55:27 - Data added into songs
+User: Razvan - 2022/05/25 03:55:27 - Data added into songs
+User: Razvan - 2022/05/25 03:55:27 - users TABLE created
+User: Razvan - 2022/05/25 03:55:27 - Data added into users
+User: Razvan - 2022/05/25 03:55:27 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:55:32 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 03:55:32 - Data added into users
+User: Razvan - 2022/05/25 03:55:34 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 03:55:34 - Data added into users
+User: Razvan - 2022/05/25 03:55:35 - razvanBlc01 Unfollow Request Declined: Bosquito
+User: Razvan - 2022/05/25 03:55:35 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:55:35 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 03:59:26 - Main Run
+User: Razvan - 2022/05/25 03:59:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:59:26 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 03:59:26 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 03:59:26 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 03:59:26 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 03:59:26 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 03:59:26 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 03:59:26 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 03:59:26 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 03:59:26 - "One" Song Object Created
+User: Razvan - 2022/05/25 03:59:26 - labels TABLE created
+User: Razvan - 2022/05/25 03:59:26 - Data added into labels
+User: Razvan - 2022/05/25 03:59:26 - Data added into labels
+User: Razvan - 2022/05/25 03:59:26 - bands TABLE created
+User: Razvan - 2022/05/25 03:59:26 - Data added into albums
+User: Razvan - 2022/05/25 03:59:26 - Data added into albums
+User: Razvan - 2022/05/25 03:59:26 - songs TABLE created
+User: Razvan - 2022/05/25 03:59:26 - Data added into songs
+User: Razvan - 2022/05/25 03:59:26 - Data added into songs
+User: Razvan - 2022/05/25 03:59:26 - users TABLE created
+User: Razvan - 2022/05/25 03:59:26 - Data added into users
+User: Razvan - 2022/05/25 03:59:26 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 03:59:29 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 03:59:29 - Data added into users
+User: Razvan - 2022/05/25 03:59:32 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 03:59:32 - Data added into users
+User: Razvan - 2022/05/25 03:59:33 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 03:59:34 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:59:34 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 03:59:34 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 16:52:44 - Main Run
+User: Razvan - 2022/05/25 16:52:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:52:44 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:52:44 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 16:52:44 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 16:52:44 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 16:52:44 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 16:52:44 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 16:52:44 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 16:52:44 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 16:52:44 - "One" Song Object Created
+User: Razvan - 2022/05/25 16:52:45 - labels TABLE created
+User: Razvan - 2022/05/25 16:52:45 - Data added into labels
+User: Razvan - 2022/05/25 16:52:45 - Data added into labels
+User: Razvan - 2022/05/25 16:52:45 - bands TABLE created
+User: Razvan - 2022/05/25 16:52:45 - Data added into albums
+User: Razvan - 2022/05/25 16:52:45 - Data added into albums
+User: Razvan - 2022/05/25 16:52:45 - songs TABLE created
+User: Razvan - 2022/05/25 16:52:45 - Data added into songs
+User: Razvan - 2022/05/25 16:52:45 - Data added into songs
+User: Razvan - 2022/05/25 16:52:45 - users TABLE created
+User: Razvan - 2022/05/25 16:52:45 - Data added into users
+User: Razvan - 2022/05/25 16:52:45 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 16:53:29 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 16:53:29 - Data added into users
+User: Razvan - 2022/05/25 16:53:41 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 16:53:41 - Data added into users
+User: Razvan - 2022/05/25 16:53:54 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 16:53:54 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 16:53:54 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 16:53:54 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 16:54:43 - Main Run
+User: Razvan - 2022/05/25 16:54:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:54:43 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:54:43 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 16:54:43 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 16:54:43 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 16:54:43 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 16:54:43 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 16:54:43 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 16:54:43 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 16:54:43 - "One" Song Object Created
+User: Razvan - 2022/05/25 16:54:43 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 16:56:01 - Main Run
+User: Razvan - 2022/05/25 16:56:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:56:01 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:56:01 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 16:56:01 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 16:56:01 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 16:56:01 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 16:56:01 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 16:56:01 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 16:56:01 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 16:56:01 - "One" Song Object Created
+User: Razvan - 2022/05/25 16:56:01 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 16:56:17 - Main Run
+User: Razvan - 2022/05/25 16:56:17 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:56:17 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:56:17 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 16:56:17 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 16:56:17 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 16:56:17 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 16:56:17 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 16:56:17 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 16:56:17 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 16:56:17 - "One" Song Object Created
+User: Razvan - 2022/05/25 16:56:25 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 16:57:34 - Main Run
+User: Razvan - 2022/05/25 16:57:34 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:57:34 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:57:34 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 16:57:34 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 16:57:34 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 16:57:34 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 16:57:34 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 16:57:34 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 16:57:34 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 16:57:34 - "One" Song Object Created
+User: Razvan - 2022/05/25 16:57:35 - bands TABLE dropped
+User: Razvan - 2022/05/25 16:57:35 - bands TABLE dropped
+User: Razvan - 2022/05/25 16:57:47 - Main Run
+User: Razvan - 2022/05/25 16:57:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:57:47 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 16:57:47 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 16:57:47 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 16:57:47 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 16:57:47 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 16:57:47 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 16:57:47 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 16:57:47 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 16:57:47 - "One" Song Object Created
+User: Razvan - 2022/05/25 16:57:52 - Main Exited Successfully
+----------------------------------
+
+
+
+User: Razvan - 2022/05/25 17:03:52 - Main Run
+User: Razvan - 2022/05/25 17:03:52 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 17:03:52 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 17:03:52 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 17:03:52 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 17:03:52 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 17:03:52 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 17:03:52 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 17:03:52 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 17:03:52 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 17:03:52 - "One" Song Object Created
+User: Razvan - 2022/05/25 17:03:53 - labels TABLE created
+User: Razvan - 2022/05/25 17:03:53 - bands TABLE created
+User: Razvan - 2022/05/25 17:03:53 - songs TABLE created
+User: Razvan - 2022/05/25 17:03:53 - Data added into songs
+User: Razvan - 2022/05/25 17:03:53 - Data added into songs
+User: Razvan - 2022/05/25 17:03:53 - users TABLE created
+User: Razvan - 2022/05/25 17:03:53 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 17:04:15 - Main Run
+User: Razvan - 2022/05/25 17:04:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 17:04:15 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 17:04:15 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 17:04:15 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 17:04:15 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 17:04:15 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 17:04:15 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 17:04:15 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 17:04:15 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 17:04:15 - "One" Song Object Created
+User: Razvan - 2022/05/25 17:04:15 - labels TABLE created
+User: Razvan - 2022/05/25 17:04:16 - Data added into labels
+User: Razvan - 2022/05/25 17:04:16 - Data added into labels
+User: Razvan - 2022/05/25 17:04:16 - bands TABLE created
+User: Razvan - 2022/05/25 17:04:16 - Data added into albums
+User: Razvan - 2022/05/25 17:04:16 - Data added into albums
+User: Razvan - 2022/05/25 17:04:16 - songs TABLE created
+User: Razvan - 2022/05/25 17:04:16 - Data added into songs
+User: Razvan - 2022/05/25 17:04:16 - Data added into songs
+User: Razvan - 2022/05/25 17:04:16 - users TABLE created
+User: Razvan - 2022/05/25 17:04:16 - Data added into users
+User: Razvan - 2022/05/25 17:04:16 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 19:23:08 - Main Run
+User: Razvan - 2022/05/25 19:23:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 19:23:08 - Label Pool Singleton Accessed
+User: Razvan - 2022/05/25 19:23:08 - "Jive" Label Object Created
+User: Razvan - 2022/05/25 19:23:08 - "Blackened" Label Object Created
+User: Razvan - 2022/05/25 19:23:08 - "Bosquito" Band Object Created
+User: Razvan - 2022/05/25 19:23:08 - "Metallica" Band Object Created
+User: Razvan - 2022/05/25 19:23:08 - "..And Justice For All" Song Object Created
+User: Razvan - 2022/05/25 19:23:08 - "Babylon" Song Object Created
+User: Razvan - 2022/05/25 19:23:08 - "Tobogan" Song Object Created
+User: Razvan - 2022/05/25 19:23:08 - "One" Song Object Created
+User: Razvan - 2022/05/25 19:23:09 - labels TABLE created
+User: Razvan - 2022/05/25 19:23:09 - Data added into labels
+User: Razvan - 2022/05/25 19:23:09 - Data added into labels
+User: Razvan - 2022/05/25 19:23:09 - bands TABLE created
+User: Razvan - 2022/05/25 19:23:09 - Data added into albums
+User: Razvan - 2022/05/25 19:23:09 - Data added into albums
+User: Razvan - 2022/05/25 19:23:09 - songs TABLE created
+User: Razvan - 2022/05/25 19:23:09 - Data added into songs
+User: Razvan - 2022/05/25 19:23:09 - Data added into songs
+User: Razvan - 2022/05/25 19:23:09 - users TABLE created
+User: Razvan - 2022/05/25 19:23:09 - Data added into users
+User: Razvan - 2022/05/25 19:23:09 - user_follows_artist TABLE created
+User: Razvan - 2022/05/25 19:23:43 - razvanBlc01 Successfully Followed Metallica
+User: Razvan - 2022/05/25 19:23:43 - Data added into users
+User: Razvan - 2022/05/25 19:24:18 - razvanBlc01 Successfully Followed Bosquito
+User: Razvan - 2022/05/25 19:24:18 - Data added into users
+User: Razvan - 2022/05/25 19:24:34 - razvanBlc01 Successfully Unfollowed Bosquito
+User: Razvan - 2022/05/25 19:24:34 - row dropped from FOLLOWS
+User: Razvan - 2022/05/25 19:24:34 - Main Exited Successfully
+----------------------------------
+
+
+
